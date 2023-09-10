@@ -1,4 +1,4 @@
-# Naughts_And_Crosses_Game
+# Noughts_And_Crosses_Game (tic-tac-toe)
 
 # Features
 
