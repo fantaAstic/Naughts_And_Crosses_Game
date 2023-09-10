@@ -2,7 +2,7 @@
 
 # Features
 
-*Interactive gameplay for two players.
+**Interactive gameplay for two players.
 Clear visualization of the game board.
 Win detection for rows, columns, and diagonals.
 Simple and easy-to-understand Java code.
